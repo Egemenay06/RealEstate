@@ -8,7 +8,8 @@ This is a Real Estate web design project developed by Egemen AY by using HTML ,C
 - BOOSTRAP LIB.
 - GOOGLE SERVICES
 - AOS LIB.
-![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)![](C:\Users\Egemen\Desktop\REACT EĞİTİM\devicon-master\icons\javascript)
+![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)![](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)![](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ### FEATURES
 - Responsive design for all devices
@@ -18,4 +19,4 @@ This is a Real Estate web design project developed by Egemen AY by using HTML ,C
 - Photolist created by using carousel
 
 
-![](C:\Users\Egemen\Desktop\REACT EĞİTİM\ödev-proje\8-hs-bs-emlak-main\proje/ezgif.com-video-to-gif)
+![](/proje/ezgif.com-video-to-gif.gif)
