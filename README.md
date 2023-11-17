@@ -18,4 +18,4 @@ This is a Real Estate web design project developed by Egemen AY by using HTML ,C
 - Photolist created by using carousel
 
 
-![]C:\Users\Egemen\Desktop\REACT EĞİTİM\ödev-proje\8-hs-bs-emlak-main\proje
+![](C:\Users\Egemen\Desktop\REACT EĞİTİM\ödev-proje\8-hs-bs-emlak-main\proje)
