@@ -21,4 +21,4 @@ This is a Real Estate web design project developed by Egemen AY by using HTML ,C
 - Photolist created by using carousel
 
 
-![](/proje/project.gif)
+![](/project.gif)
